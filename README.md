@@ -1,4 +1,4 @@
-![logo]([https://github.com/AfrinF/AfrinF/blob/main/Purple%20and%20Black%20Simple%20Coming%20Soon%20Banner.png](https://github.com/AfrinF/AfrinF/blob/main/GITBanner.png))
+![logo](https://github.com/AfrinF/AfrinF/blob/main/GITBanner.png)
 <h1 align="center">Hi 👋, I'm Afrin Fathima</h1>
 <h3 align="center">A passionate Frontend Developer and Data Analyst</h3>
 
