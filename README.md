@@ -24,7 +24,7 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinf&show_icons=true&locale=en" alt="afrinf" /></p> -->
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinf&" alt="afrinf" width="400px" height="200px" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf"  width="400px" height="180px" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinf&" alt="afrinf" width="430px" height="200px" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf"  width="370px" height="180px" />
 </p>
 <hr>
