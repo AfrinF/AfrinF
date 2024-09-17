@@ -28,7 +28,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf" width="370px" height="180px"/>
 </p> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AfrinF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AfrinF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AfrinF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" width='530' />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AfrinF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  width='530'/>
 </div>
 <hr>
