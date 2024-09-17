@@ -5,7 +5,7 @@
 <br>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=afrinf&label=Profile%20views&color=0e75b6&style=flat" alt="afrinf" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afrinf&label=Profile%20views&color=0e75b6&style=flat" alt="afrinf" /> </p>
 
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -24,7 +24,11 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinf&show_icons=true&locale=en" alt="afrinf" /></p> -->
 <hr>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinf&" alt="afrinf" width="430px" height="200px" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf"  width="370px" height="180px" />
-</p>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinf&" alt="afrinf" width="430px" height="200px" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinf&show_icons=true&locale=en&layout=compact" alt="afrinf" width="370px" height="180px"/>
+</p> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AfrinF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AfrinF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 <hr>
